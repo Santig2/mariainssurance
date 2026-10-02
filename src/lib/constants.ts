@@ -1,0 +1,98 @@
+export const BRAND = {
+  name: "María Arias",
+  fullName: "María Rosario Arias Gómez",
+  title: "Licensed Insurance Agent",
+  tagline: "Protección para hoy. Planificación para mañana.",
+  phone: "(786) 212-4510",
+  phoneRaw: "+17862124510",
+  email: "mariaariasinsurance@gmail.com",
+  instagram: "@mariaarias.seguros",
+  location: "Miami, Florida, EE.UU.",
+  yearsExperience: "+3 Años",
+  sinceYear: "2022",
+  familiesProtected: "+500",
+  partnerCompaniesCount: "+10",
+  rating: "4.9 ★",
+  activeStates: [
+    "Florida (FL)",
+    "North Carolina (NC)",
+    "South Carolina (SC)",
+    "Texas (TX)",
+    "New Jersey (NJ)",
+  ],
+  colors: {
+    navy: "#1B2D5B",
+    navyDark: "#121F40",
+    gold: "#C9A84C",
+    goldLight: "#DFBE65",
+    cream: "#FAF6EF",
+    blush: "#E8C5B0",
+    white: "#FFFFFF",
+    text: "#1A1A2E",
+    muted: "#4A4A6A",
+  },
+  methodSteps: [
+    {
+      step: "01",
+      name: "Conozco",
+      desc: "Escucho tu historia con empatía y confidencialidad para entender tu situación familiar y presupuesto real.",
+    },
+    {
+      step: "02",
+      name: "Analizo",
+      desc: "Evalúo si calificas para subsidios ACA (Obamacare) o si la ruta más conveniente es un plan médico privado sin requisitos migratorios.",
+    },
+    {
+      step: "03",
+      name: "Comparo",
+      desc: "Cotejamos opciones en aseguradoras líderes, revisando copagos, deducibles, redes de médicos y medicinas.",
+    },
+    {
+      step: "04",
+      name: "Explico",
+      desc: "Te traduzco cada detalle en español cotidiano y transparente, sin letra chica ni tecnicismos confusos.",
+    },
+    {
+      step: "05",
+      name: "Acompaño",
+      desc: "Mi labor no termina con la venta. Cuentas con mi soporte directo para resolver dudas, reclamos o cambios de médico.",
+    },
+  ],
+  services: [
+    {
+      slug: "seguro-de-salud",
+      title: "Seguro de Salud (Obamacare / ACA)",
+      shortDesc: "Planes médicos integrales con subsidio gubernamental según ingresos familiares.",
+      path: "/servicios/seguro-de-salud",
+    },
+    {
+      slug: "planes-privados",
+      title: "Planes Privados (PPO para no ACA)",
+      shortDesc: "Acceso a la salud médica los 365 días del año sin requerir estatus migratorio definitivo.",
+      path: "/servicios/planes-privados",
+    },
+    {
+      slug: "seguro-de-vida",
+      title: "Seguro de Vida & Asistencia Funeraria",
+      shortDesc: "Pólizas con beneficios en vida (National Life Group) y repatriación (Assure For Life).",
+      path: "/servicios/seguro-de-vida",
+    },
+    {
+      slug: "seguro-hogar",
+      title: "Seguro de Hogar & Propiedad",
+      shortDesc: "Protección integral para tu vivienda, pertenencias y responsabilidad familiar en EE.UU.",
+      path: "/servicios/seguro-hogar",
+    },
+    {
+      slug: "planificacion-retiro",
+      title: "Planificación de Retiro & Anualidades",
+      shortDesc: "Estrategias con ventajas fiscales y capital garantizado para un retiro digno y seguro.",
+      path: "/servicios/planificacion-retiro",
+    },
+  ],
+  cities: [
+    "Miami", "Hialeah", "Doral", "Kendall", "Homestead", "Miami Lakes",
+    "Coral Gables", "Pembroke Pines", "Miramar", "Miami Beach", "Cutler Bay",
+    "Miami Gardens", "Sweetwater", "Fontainebleau"
+  ],
+};

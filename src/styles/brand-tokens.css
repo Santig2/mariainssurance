@@ -1,0 +1,21 @@
+/* Brand Tokens — Warm Authority: María Arias */
+:root {
+  /* Exact HEX Colors */
+  --color-navy: #1B2D5B;
+  --color-navy-dark: #121F40;
+  --color-gold: #C9A84C;
+  --color-gold-light: #DFBE65;
+  --color-cream: #FAF6EF;
+  --color-blush: #E8C5B0;
+  --color-white: #FFFFFF;
+  --color-text: #1A1A2E;
+  --color-muted: #4A4A6A;
+  
+  /* Borders and Glass */
+  --color-border: rgba(201, 168, 76, 0.25);
+  --color-border-subtle: rgba(27, 45, 91, 0.08);
+
+  /* Shadows */
+  --shadow-warm: 0 10px 30px -10px rgba(27, 45, 91, 0.08), 0 2px 6px rgba(201, 168, 76, 0.06);
+  --shadow-warm-hover: 0 20px 40px -12px rgba(27, 45, 91, 0.16), 0 0 0 1px rgba(201, 168, 76, 0.35);
+}
