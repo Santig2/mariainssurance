@@ -2,7 +2,6 @@ import Link from "next/link";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { FloatingCTA } from "@/components/layout/FloatingCTA";
-import { AIChat } from "@/components/chat/AIChat";
 import { CheckCircle2, ArrowRight, TrendingUp } from "lucide-react";
 import { constructMetadata } from "@/lib/seo";
 
@@ -74,7 +73,6 @@ export default function PlanificacionRetiroPage() {
 
       <Footer />
       <FloatingCTA />
-      <AIChat />
     </main>
   );
 }

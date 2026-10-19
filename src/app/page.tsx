@@ -11,7 +11,6 @@ import { Testimonials } from "@/components/sections/Testimonials";
 import { FAQ } from "@/components/sections/FAQ";
 import { BlogPreview } from "@/components/sections/BlogPreview";
 import { ContactCTA } from "@/components/sections/ContactCTA";
-import { AIChat } from "@/components/chat/AIChat";
 
 export default function HomePage() {
   return (
@@ -29,7 +28,6 @@ export default function HomePage() {
       <ContactCTA />
       <Footer />
       <FloatingCTA />
-      <AIChat />
     </main>
   );
 }

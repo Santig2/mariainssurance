@@ -2,7 +2,6 @@ import Link from "next/link";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { FloatingCTA } from "@/components/layout/FloatingCTA";
-import { AIChat } from "@/components/chat/AIChat";
 import { constructMetadata } from "@/lib/seo";
 import { ArrowRight, Clock, BookOpen } from "lucide-react";
 
@@ -109,7 +108,6 @@ export default function BlogListPage() {
 
       <Footer />
       <FloatingCTA />
-      <AIChat />
     </main>
   );
 }

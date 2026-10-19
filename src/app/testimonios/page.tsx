@@ -1,7 +1,6 @@
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { FloatingCTA } from "@/components/layout/FloatingCTA";
-import { AIChat } from "@/components/chat/AIChat";
 import { constructMetadata } from "@/lib/seo";
 import { Star, Quote } from "lucide-react";
 import Image from "next/image";
@@ -110,7 +109,6 @@ export default function TestimoniosPage() {
 
       <Footer />
       <FloatingCTA />
-      <AIChat />
     </main>
   );
 }

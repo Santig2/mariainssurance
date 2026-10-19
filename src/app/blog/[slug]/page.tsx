@@ -3,7 +3,6 @@ import Link from "next/link";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { FloatingCTA } from "@/components/layout/FloatingCTA";
-import { AIChat } from "@/components/chat/AIChat";
 import { blogPosts } from "../page";
 import { constructMetadata } from "@/lib/seo";
 import { ArrowLeft, Clock, Calendar, ArrowRight } from "lucide-react";
@@ -93,7 +92,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
       <Footer />
       <FloatingCTA />
-      <AIChat />
     </main>
   );
 }
