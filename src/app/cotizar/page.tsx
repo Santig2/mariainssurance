@@ -8,7 +8,7 @@ import { Phone, Mail, Clock, ShieldCheck } from "lucide-react";
 
 export const metadata = constructMetadata({
   title: "Cotizar Seguro Gratis | María Arias Insurance",
-  description: "Solicita tu cotización gratuita y sin compromiso para seguros de salud, vida, hogar o retiro en FL, NC, SC, TX y NJ.",
+  description: "Solicita tu cotización gratuita y sin compromiso para seguros de salud, vida, asistencia funeraria o retiro en FL, NC, SC, TX y NJ.",
   path: "/cotizar",
 });
 

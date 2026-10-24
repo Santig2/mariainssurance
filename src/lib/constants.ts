@@ -78,12 +78,6 @@ export const BRAND = {
       path: "/servicios/seguro-de-vida",
     },
     {
-      slug: "seguro-hogar",
-      title: "Seguro de Hogar & Propiedad",
-      shortDesc: "Protección integral para tu vivienda, pertenencias y responsabilidad familiar en EE.UU.",
-      path: "/servicios/seguro-hogar",
-    },
-    {
       slug: "planificacion-retiro",
       title: "Planificación de Retiro & Anualidades",
       shortDesc: "Estrategias con ventajas fiscales y capital garantizado para un retiro digno y seguro.",

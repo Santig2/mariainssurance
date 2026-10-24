@@ -24,7 +24,6 @@ const servicesOptions = [
   "Seguro de Salud (Obamacare / ACA con subsidio)",
   "Planes Privados de Salud (Sin estatus requerido)",
   "Seguro de Vida (National Life Group con beneficios en vida)",
-  "Seguro de Hogar & Propiedad",
   "Planificación de Retiro / Anualidades",
   "Asistencia Funeraria (Assure For Life)",
 ];

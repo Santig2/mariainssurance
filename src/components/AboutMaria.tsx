@@ -88,7 +88,7 @@ export function AboutMaria() {
               <p>
                 Por eso decidí construir una práctica profesional basada en la <strong>empatía y la claridad absoluta</strong>. 
                 Aquí no hay presiones de venta ni tecnicismos incomprensibles. Me siento contigo a revisar tu caso, respondemos cada duda 
-                y encontramos la opción que mejor se ajuste al bolsillo y las necesidades reales de tu hogar.
+                y encontramos la opción que mejor se ajuste al bolsillo y las necesidades reales de tu familia.
               </p>
             </div>
 

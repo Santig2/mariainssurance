@@ -44,8 +44,8 @@ const allTestimonials = [
   {
     name: "Fernando & Sofía P.",
     location: "Pembroke Pines, FL",
-    service: "Seguro de Hogar & Propiedad",
-    quote: "Compramos nuestra primera casa y las cotizaciones de seguro eran ridículamente altas. María analizó los deducibles, ajustó las coberturas y nos ahorró más de $1,400 al año con una aseguradora excelente.",
+    service: "Seguro de Vida & Asistencia Funeraria",
+    quote: "María nos orientó con una paciencia infinita sobre las pólizas con beneficios en vida y la asistencia con repatriación. Saber que nuestra familia cuenta con respaldo total ante cualquier emergencia nos da una tranquilidad invaluable.",
     rating: 5,
   },
   {

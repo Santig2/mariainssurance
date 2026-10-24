@@ -8,7 +8,6 @@ import {
   Smile, 
   ShieldCheck, 
   HeartHandshake, 
-  Home as HomeIcon,
   TrendingUp,
   ArrowRight,
   CheckCircle2
@@ -59,20 +58,6 @@ const servicesList = [
     isSpecial: false,
   },
   {
-    icon: HomeIcon,
-    category: "Protección de Patrimonio",
-    title: "Seguro de Hogar & Propiedad",
-    tagline: "Cuida tu mayor inversión contra todo riesgo",
-    description: "Cobertura para propietarios, condominios e inquilinos en Florida y otros estados. Protege tu vivienda de daños por agua, huracán y responsabilidad civil.",
-    features: [
-      "Protección estructural y de contenidos",
-      "Cobertura contra tormentas y responsabilidad civil",
-      "Tarifas competitivas en el mercado de Florida",
-    ],
-    path: "/servicios/seguro-hogar",
-    isSpecial: false,
-  },
-  {
     icon: TrendingUp,
     category: "Planificación de Futuro",
     title: "Anualidades & Planificación de Retiro",
@@ -106,7 +91,7 @@ export function Services() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {servicesList.map((item, idx) => (
             <motion.div
               key={idx}

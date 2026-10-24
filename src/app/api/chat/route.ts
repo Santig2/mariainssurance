@@ -53,7 +53,7 @@ export async function POST(req: Request) {
         "Ofrecemos pólizas modernas de seguro de vida con National Life Group con beneficios en vida (te indemnizan si sufres un infarto o cáncer), además de asistencia funeraria y repatriación con Assure For Life. ¿Buscas cobertura individual o familiar?";
     } else if (lower.includes("hogar") || lower.includes("casa") || lower.includes("propiedad")) {
       reply =
-        "Protegemos tu vivienda contra daños por tormentas, huracanes, tuberías y responsabilidad civil familiar con tarifas sumamente competitivas en Florida.";
+        "Actualmente nos especializamos en Seguros de Salud (Obamacare y Planes Privados), Seguro de Vida con beneficios en vida, Asistencia Funeraria y Planificación de Retiro / Anualidades. No ofrecemos seguros de hogar o propiedad. ¿Te gustaría consultar sobre salud, vida o retiro?";
     }
 
     return NextResponse.json({ reply });

@@ -8,7 +8,7 @@ import { constructMetadata } from "@/lib/seo";
 
 export const metadata = constructMetadata({
   title: "Servicios de Seguros | María Arias Insurance",
-  description: "Portafolio de seguros médicos ACA/Obamacare, planes privados PPO sin estatus, vida, hogar y anualidades de retiro.",
+  description: "Portafolio de seguros médicos ACA/Obamacare, planes privados PPO sin estatus, seguro de vida y anualidades de retiro.",
   path: "/servicios",
 });
 
@@ -33,7 +33,7 @@ export default function ServiciosPage() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {BRAND.services.map((svc) => (
               <div
                 key={svc.slug}

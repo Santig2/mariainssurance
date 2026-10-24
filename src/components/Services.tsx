@@ -69,7 +69,7 @@ const services = [
     features: [
       "Indemnización directa a tu cuenta bancaria",
       "Protección ante enfermedades graves y cirugías",
-      "Mantiene la estabilidad económica de tu hogar",
+      "Mantiene la estabilidad económica de tu familia",
       "Fácil calificación y activación inmediata",
     ],
     highlight: "Dinero en efectivo directo a tu bolsillo",

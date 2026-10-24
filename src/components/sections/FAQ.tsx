@@ -19,8 +19,8 @@ const faqs = [
     a: "El costo y los subsidios de la Ley ACA dependen de tus ingresos estimados en tu declaración de impuestos, el número de personas en tu núcleo familiar y el código postal donde vives. En una llamada de 10 minutos ingresamos tus datos en el sistema oficial del Marketplace y verificamos inmediatamente tu crédito fiscal aplicable.",
   },
   {
-    q: "¿Qué cobertura ofrece el seguro de hogar?",
-    a: "El seguro de hogar protege la estructura física de tu casa ante eventos como tormentas, vientos o incendios, además de tus muebles y pertenencias personales. También incluye responsabilidad civil familiar ante cualquier accidente imprevisto en tu propiedad.",
+    q: "¿En qué estados tienes licencia para asesorarme y emitir mi póliza?",
+    a: "Cuento con licencia oficial y certificación en Florida (FL), North Carolina (NC), South Carolina (SC), Texas (TX) y New Jersey (NJ). Todo el proceso de asesoría, cálculo de subsidios y emisión se realiza de forma remota, segura y 100% en español.",
   },
 ];
 

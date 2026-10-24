@@ -54,7 +54,6 @@ export const metadata: Metadata = {
     "seguro médico privado sin ACA",
     "seguro de vida familias hispanas",
     "anualidades para latinos Florida",
-    "seguro de hogar en español Florida",
     "dental vision seguro complementario",
     "planificación retiro hispanos Florida",
     // SEO Local - Sur de Florida
